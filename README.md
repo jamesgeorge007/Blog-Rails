@@ -1,12 +1,12 @@
 # Blog-backed-up-by-Ruby-on-Rails
 
-# Basic Info
+## Basic Info
 
 <p>
 This is a simple blog that I made while learning Rails. 
 </p>
 
-# Technical Details.
+## Technical Details.
 
 * Ruby version
 
